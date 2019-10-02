@@ -6,6 +6,7 @@
    :caption: 目录:
 
    BasicCommand
+   FAQ
 
 
 .. Attention:: 本文档只针对 **Dice V3** 版本，某些内容可能不适用于旧版本
@@ -36,7 +37,7 @@
 
    4. `搭建说明 <./SetupManual.html>`_ *尚未完成*
 
-   5. `常见问题 <./FAQ.html>`_ *尚未完成*
+   5. `常见问题 <./FAQ.html>`_
 
 
 
