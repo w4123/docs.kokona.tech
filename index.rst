@@ -31,7 +31,7 @@
 
    1. `基础命令 <./BasicCommand.html>`_
 
-   2. `进阶命令 <./AdvancedCommand.html>`_ *尚未完成*
+   2. `进阶命令 <./AdvancedCommand.html>`_ 
 
    3. `管理命令 <./AdminCommand.html>`_ *尚未完成*
 
