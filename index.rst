@@ -6,6 +6,7 @@
    :caption: 目录:
 
    BasicCommand
+   AdvancedCommand
    FAQ
 
 
