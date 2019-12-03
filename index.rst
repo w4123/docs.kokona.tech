@@ -33,11 +33,9 @@
 
    2. `进阶命令 <./AdvancedCommand.html>`_ 
 
-   3. `管理命令 <./AdminCommand.html>`_ *尚未完成*
+   3. `搭建说明 <./SetupManual.html>`_ *尚未完成*
 
-   4. `搭建说明 <./SetupManual.html>`_ *尚未完成*
-
-   5. `常见问题 <./FAQ.html>`_
+   4. `常见问题 <./FAQ.html>`_
 
 
 
